@@ -8,6 +8,16 @@ I built a [simple temperature sensor](https://github.com/wojciechkarcz/Simple-No
 
 <br>  
 
+## JUPYTER NOTEBOOKS
+
+- [Data collection and celaning (DIY sensor data)](https://github.com/wojciechkarcz/One-year-of-measuring-outside-temperature-data-analysis/blob/main/1_DIY_sensor_data_import_and_cleaning.ipynb)
+- [Data collection and cleaning (weather station data)](https://github.com/wojciechkarcz/One-year-of-measuring-outside-temperature-data-analysis/blob/main/2_weather_station_data_import_cleaning.ipynb)
+- [Data analysis - part1](https://github.com/wojciechkarcz/One-year-of-measuring-outside-temperature-data-analysis/blob/main/3_data_analysis_part1.ipynb)
+- [Data analysis - part2](https://github.com/wojciechkarcz/One-year-of-measuring-outside-temperature-data-analysis/blob/main/4_data_analysis_part2.ipynb)
+- [Data web scraping](https://github.com/wojciechkarcz/One-year-of-measuring-outside-temperature-data-analysis/blob/main/5_webscraping.ipynb)
+
+<br>
+
 ## TOOLS
 
 | Task      | Package / tools |
