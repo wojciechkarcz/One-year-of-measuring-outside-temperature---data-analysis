@@ -26,7 +26,7 @@ I built a [simple temperature sensor](https://github.com/wojciechkarcz/Simple-No
 | Data Cleaning   | pandas, json |
 | Data Analysis   | pandas, numpy |
 | Data Visualization   | matplotlib |
-| Environment / Platforms   | python 3.8+, Jupyter Notebook|
+| Environment / Platforms   | Python 3.8+, Jupyter Notebook|
 <br>
 
 ## DATA COLLECTION
